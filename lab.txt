@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+a:link{text-decoration:none}
+a:visited {text-decoration:none;color:red}
+a:hover {text-decoration:underline;color:green}
+a:active {text-decoration:none;color:blue}
+</style>
+<title>Left</title>
+</head>
+<body bgcolor="#fabecd">
+<p align="center"><a href="ece.html" target="right">ECE</a></p >
+<p align="center"><a href="eee.html" target="right">EEE</a></p >
+<p align="center"><a href="mech.html" target="right">MECH</a></p >
+<p align="center"><a href="csit.html" target="right">CSE</a>
+</body>
+</html>
