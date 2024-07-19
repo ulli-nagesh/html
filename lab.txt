@@ -13,5 +13,5 @@ a:active {text-decoration:none;color:blue}
 <p align="center"><a href="eee.html" target="right">EEE</a></p >
 <p align="center"><a href="mech.html" target="right">MECH</a></p >
 <p align="center"><a href="csit.html" target="right">CSE</a>
-</body>
-</html>
+</bodyjvfevfhhefhbfhbdhfbehbhebfhcbrhfbrbfrbhfbwekj;dkjbhcbwecb2d2	db2y
+tml>
